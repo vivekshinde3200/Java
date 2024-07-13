@@ -8,6 +8,7 @@ public class InterestRateCalculator {
 		float TA=SI+450000;
 		System.out.println("The Simple Interest is "+ SI);
 		System.out.println("The Total amount is "+ TA);
+		System.out.println("Hi this is change");
 	}
 	
 
