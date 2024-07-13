@@ -5,6 +5,7 @@ public class ArithmaticCalculations {
 	public static void main(String[] args) {
 
 		Human h1 = new Human();
+		// this is new comment
 		h1.addition();
 		h1.substraction();
 
